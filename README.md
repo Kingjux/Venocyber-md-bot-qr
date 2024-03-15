@@ -84,3 +84,6 @@ RENDER PROCESS:
 ## MADE WITH ❤️ BY:
 [![VenocyberTech](https://telegra.ph/file/1252ab43fa38f7b88ecf5.jpg)](https://github.com/Kingjux)
 
+
+
+[![Venocyber tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+site;I+am+venocyber+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕+😕🙃)](https://github.com/Kingjux)
