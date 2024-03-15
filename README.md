@@ -3,10 +3,10 @@
   <html>
    <body>
   <p align="center">  
-  <a aria-label="FORK" href="https://github.com/Kingjux/venocyber-md-bot-qr/fork" target="_blank">
+  <a aria-label="FORK" href="https://github.com/Kingjux/venocyber-md-qr/fork" target="_blank">
     <img alt="License: GPL-3" src="https://img.shields.io/github/stars/SuhailTechInfo/web-qr?style=social" target="_blank" />
   </a>
-  <a aria-label="Venocyber_Md_bot is free to use" href="https://youtube.com/@jastinmtewa" target="_blank">
+  <a aria-label="Venocyber_Md is free to use" href="https://youtube.com/@JASTINMTEWA_vn9pl" target="_blank">
     <img alt="VenocyberTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
     <p align="center"><img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="VenocyberTech :: Visitor's Count" /></p>
@@ -18,9 +18,9 @@
 
 ## Deployment Methods
 ---
-1.  ***Click [`FORK`](https://github.com/Kingjux/venocyber-md-bot-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
-2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Kingjux/venocyber-md-bot-qr).***
-3.  ***Deploy on [`REPLIT`](https://replit.com/github/Kingjux/venocyber-md-bot-qr).***
+1.  ***Click [`FORK`](https://github.com/Kingjux/venocyber-md-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
+2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Kingjux/venocyber-md-qr).***
+3.  ***Deploy on [`REPLIT`](https://replit.com/github/Kingjux/venocyber-md-qr).***
 4. ***Deploy on [`RENDER`](https://dashboard.render.com/login).***
 ```
 RENDER PROCESS:
